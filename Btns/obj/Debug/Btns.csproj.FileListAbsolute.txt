@@ -1,0 +1,9 @@
+C:\Users\Usuario\source\repos\Btns\Btns\bin\Debug\Btns.exe.config
+C:\Users\Usuario\source\repos\Btns\Btns\bin\Debug\Btns.exe
+C:\Users\Usuario\source\repos\Btns\Btns\bin\Debug\Btns.pdb
+C:\Users\Usuario\source\repos\Btns\Btns\obj\Debug\Btns.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Btns\Btns\obj\Debug\Btns.Form1.resources
+C:\Users\Usuario\source\repos\Btns\Btns\obj\Debug\Btns.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Btns\Btns\obj\Debug\Btns.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Btns\Btns\obj\Debug\Btns.exe
+C:\Users\Usuario\source\repos\Btns\Btns\obj\Debug\Btns.pdb
